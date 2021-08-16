@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Currency-Website/static/css/main.c315f0fe.chunk.css",
+    "main.js": "/React-Currency-Website/static/js/main.38b9777b.chunk.js",
+    "main.js.map": "/React-Currency-Website/static/js/main.38b9777b.chunk.js.map",
+    "runtime-main.js": "/React-Currency-Website/static/js/runtime-main.946de177.js",
+    "runtime-main.js.map": "/React-Currency-Website/static/js/runtime-main.946de177.js.map",
+    "static/js/2.23cbe24b.chunk.js": "/React-Currency-Website/static/js/2.23cbe24b.chunk.js",
+    "static/js/2.23cbe24b.chunk.js.map": "/React-Currency-Website/static/js/2.23cbe24b.chunk.js.map",
+    "index.html": "/React-Currency-Website/index.html",
+    "static/css/main.c315f0fe.chunk.css.map": "/React-Currency-Website/static/css/main.c315f0fe.chunk.css.map",
+    "static/js/2.23cbe24b.chunk.js.LICENSE.txt": "/React-Currency-Website/static/js/2.23cbe24b.chunk.js.LICENSE.txt",
+    "static/media/heroVideo.41cab179.mp4": "/React-Currency-Website/static/media/heroVideo.41cab179.mp4",
+    "static/media/icon1.a3a4a879.svg": "/React-Currency-Website/static/media/icon1.a3a4a879.svg",
+    "static/media/icon2.d8f82d8a.svg": "/React-Currency-Website/static/media/icon2.d8f82d8a.svg",
+    "static/media/icon3.5a43be51.svg": "/React-Currency-Website/static/media/icon3.5a43be51.svg",
+    "static/media/svg1.05748f44.svg": "/React-Currency-Website/static/media/svg1.05748f44.svg",
+    "static/media/svg2.9241b38b.svg": "/React-Currency-Website/static/media/svg2.9241b38b.svg",
+    "static/media/svg3.fc6a6f50.svg": "/React-Currency-Website/static/media/svg3.fc6a6f50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.946de177.js",
+    "static/js/2.23cbe24b.chunk.js",
+    "static/css/main.c315f0fe.chunk.css",
+    "static/js/main.38b9777b.chunk.js"
+  ]
+}
